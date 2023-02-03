@@ -16,7 +16,8 @@ items:
  - openlexington/gethelplex
  - uscensusbureau/citysdk
  - NREL/api-umbrella
- - usds/playbook
+ - usds/playbookhuu![2D6DB4F5-82ED-4B2B-A138-8776D475AD94](https://user-images.githubusercontent.com/124348210/216561140-91e352fa-8aac-4bb2-8089-07c778f03330.jpeg)
+
  - republique-et-canton-de-geneve/chvote-1-0
  - https://www.youtube.com/embed/uNa9GOtM6NE
  - gchq/CyberChef
